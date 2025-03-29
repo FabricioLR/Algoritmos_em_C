@@ -7,13 +7,13 @@ C_EXE = $(C_SOURCE:.c=.exe)
 media: media.exe
 	./$<
 
-circle: circle_area.exe
+circulo: area_circulo.exe
 	./$<
 
-area: triangle_area.exe
+triangulo: area_triangulo.exe
 	./$<
 
-switch: switch_variables.exe
+troca: troca_variaveis.exe
 	./$<
 
 clean: $(C_EXE)

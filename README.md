@@ -31,22 +31,22 @@ A média das notas é: 4.75
 
 Cálculo da área de um círculo
 ```
-make circle
+make circulo
 Digite o valor do raio do círculo: 4
 A área do círculo é: 50.27
 ```
 
 Cálculo da área de um triângulo
 ```
-make area
+make triangulo
 Digite o valor da base do triângulo: 4
 Digite o valor da altura do triângulo: 5
-A área do triângulo é: 20.00
+A área do triângulo é: 10.00
 ```
 
 Troca de valores entre 2 variáveis
 ```
-make switch
+make troca
 Digite o valor de A: 3
 Digite o valor de B: 2
 Valores após a troca:
