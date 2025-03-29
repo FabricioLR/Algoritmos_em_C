@@ -1,12 +1,21 @@
 # Algoritmos em C
 
-Exemplos práticos de alguns algoritmos - Matéria de Introdução a Programação de Computadores
+Exemplos práticos de alguns algoritmos estudados em sala - Matéria de Introdução a Programação de Computadores
+
+## 🚀 Começando
 
 ### 📋 Pré-requisitos
 
 ```
 gcc
+make
 ```
+
+## 📊 Fluxograma
+
+Representação de um algoritmo de média por meio de um fluxograma
+
+![plot](./media.jpeg)
 
 ## ⚙️ Executando
 
@@ -48,8 +57,9 @@ B = 3
 ## 🛠️ Construído com
 
 * [GCC](https://gcc.gnu.org/) - Compilador usado
+* [Make](https://www.gnu.org/software/make/) - Automatizaçao da compilação
 
 ## ✒️ Autores
 
 * **Fabrício** - *Trabalho Inicial* - [Fabrício](https://github.com/FabricioLR)
-* **Ana Caroline** - *Documentação* - [Ana Caroline](https://github.com/anac-roline)
+* **Ana Caroline** - *Trabalho Inicial* - [Ana Caroline](https://github.com/anac-roline)
