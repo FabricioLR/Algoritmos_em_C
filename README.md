@@ -15,7 +15,7 @@ make
 
 Representação de um algoritmo de média por meio de um fluxograma
 
-![plot](./media.jpeg)
+<img src="./media.jpeg" alt="drawing" width="350"/>
 
 ## ⚙️ Executando
 
